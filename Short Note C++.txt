@@ -16,3 +16,6 @@ fmin(3,5)
 
 cin >> (variable name) -> for getting user inputs
 getline(cin,variable name)
+
+
+Hi welcome to ubuntu world
