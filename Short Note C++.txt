@@ -1,0 +1,18 @@
+#include <iostream>
+#include <cmath>
+
+Useful Functions
+
+length()
+find()-> return starting index position
+substr(starting index,length)-> get a substring from a given string
+pow(3,5)
+round(4.556)
+ceil(4.356) 
+floor(3.235) 
+fmax(3,10)
+fmin(3,5) 
+
+
+cin >> (variable name) -> for getting user inputs
+getline(cin,variable name)
